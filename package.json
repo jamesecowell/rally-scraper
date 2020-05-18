@@ -1,7 +1,7 @@
 {
   "name": "rally-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rallying results and data from ewrc-results.com",
   "main": "index.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
